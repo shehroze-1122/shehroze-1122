@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there👋, I am Shehroze Talat
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shehroze-1122&label=Profile%20views%20since%28-6-2022&color=red&style=flat" alt="mkumail1" /> </p>
 
 - 🔭 I’m currently working as Full Stack Developer
 - 🌱 I’m currently learning Design Systems
