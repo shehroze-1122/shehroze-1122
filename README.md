@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehroze-1122&label=Profile%20views%20since%20June%2028th%202022&color=red&style=flat" alt="" aria-hidden="true" /> </p>
 
 - 🔭 I’m currently working as Full Stack Developer
-- 💬 Ask me about React x Cricket 
+- 💬 Ask me about React 
 - ⚡ Fun fact: Born on Valentine's Day
 
 <h2><i>GitHub Stats</i></h2>
