@@ -9,10 +9,6 @@
 
 [![Shehroze's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehroze-1122&show_icons=true&theme=react&count_private=true&hide=issues)](https://github.com/shehroze-1122/)
 
-<h2><i>Contribution Graph</i></h2>
-
-[![Shehroze's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shehroze-1122&theme=xcode&count_private=true)](https://github.com/shehroze-1122/)
-
 <h2><i>💻 Tech Stack</i></h2>
 <table width="100">
 <tr>
