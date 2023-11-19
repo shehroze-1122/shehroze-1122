@@ -5,10 +5,6 @@
 - 💬 Ask me about React 
 - ⚡ Fun fact: Born on Valentine's Day
 
-<h2><i>GitHub Stats</i></h2>
-
-[![Shehroze's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehroze-1122&show_icons=true&theme=react&count_private=true&hide=issues)](https://github.com/shehroze-1122/)
-
 <h2><i>💻 Tech Stack</i></h2>
 <table width="100">
 <tr>
@@ -39,7 +35,7 @@
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
     <td align='center' width="190">
-        <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg">
     </td>
     <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
@@ -53,21 +49,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center' width="190">
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
-    </td>
-</tr>
-<tr>
-	   <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-	    <td align='center' width="190">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="50">
     </td>
 </tr>
 </table>
@@ -76,9 +61,6 @@
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p>
-<a href="https://github.com/shehroze-1122">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehroze-1122&layout=compact&langs_count=8&theme=algolia"/>
-</a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shehroze-1122&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
