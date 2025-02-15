@@ -1,2 +1,2 @@
 ### Hi there👋, I am Shehroze Talat
-Software Engineer specializing in architecting web applications.
+Software Engineer specializing in leading & developing products in fast-paced environments.
